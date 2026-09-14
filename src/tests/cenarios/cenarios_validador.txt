@@ -1,0 +1,12 @@
+Cenários de testes:
+Idade >= 18;
+Score >=500;
+Resultado = Aprovado;
+
+alternativo: no mínimo 4
+
+Cenário 1: tudo perfeito
+Idade= 20;
+Score = 800;
+Resultado = aprovado;
+
